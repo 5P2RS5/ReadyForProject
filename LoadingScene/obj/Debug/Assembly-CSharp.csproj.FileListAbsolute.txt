@@ -1,0 +1,2 @@
+/Users/hanseong-il/Desktop/ReadyForProject/My project/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+/Users/hanseong-il/Desktop/ReadyForProject/My project/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
