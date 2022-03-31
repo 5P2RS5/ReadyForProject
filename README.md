@@ -4,3 +4,5 @@
 LoadingScene 출처 : https://youtu.be/xRiqSmUggpg 베르의 게임 개발 유튜브 
 
 SingleTonPattern 출처 : https://youtu.be/-wzULWMvFu0 베르의 게임 개발 유튜브
+
+LoadingUI 출처 : https://youtu.be/vWMUsez9TI4 베르의 게임 개발 유튜브
