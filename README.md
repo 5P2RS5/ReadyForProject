@@ -8,3 +8,5 @@ SingleTonPattern 출처 : https://youtu.be/-wzULWMvFu0 베르의 게임 개발 �
 LoadingUI 출처 : https://youtu.be/vWMUsez9TI4 베르의 게임 개발 유튜브
 
 ScrollView 출처 : https://youtu.be/3Y3wFC33mpU 베르의 게임 개발 유튜브
+
+BgmChange 출처 : https://itadventure.tistory.com/415 크레이의 IT탐구
